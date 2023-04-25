@@ -2,19 +2,18 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zombieteer&exclude_repo=btre_project)](https://github.com/zombieteer/github-readme-stats)
 
-
 <!-- <p align="center" style="border-radius:50%"> <img style="width:100px;border:1px solid black;  " src="./mypic.jpeg" alt="Profile-Pic" /> </p> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zombieter&label=Profile%20views&color=0e75b6&style=flat" alt="zombieter" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zombieteer&label=Profile%20views&color=0e75b6&style=flat" alt="zombieteer" /> </p>
 
-<!-- - 👨‍💻 All of my projects are available at [Portfolio](https://zombieter.github.io/Portfolio/) -->
+<!-- - 👨‍💻 All of my projects are available at [Portfolio](https://zombieteer.github.io/Portfolio/) -->
 
 <!-- - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1x89GUD99_kCRmZrHurQBCOxIDSCu1LkZ/view?usp=sharing) -->
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zombieter&show_icons=true&locale=en" alt="zombieter" /></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zombieter&" alt="zombieter" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zombieteer&show_icons=true&locale=en" alt="zombieteer" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zombieteer&" alt="zombieteer" /></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/zombieter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="zombieter" height="30" width="40" /></a>
+<a href="https://codepen.io/zombieteer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="zombieteer" height="30" width="40" /></a>
 &nbsp;&nbsp;
 </p>
 
@@ -35,8 +34,8 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> &nbsp;&nbsp;
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>&nbsp;&nbsp; 
 </p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zombieter&show_icons=true&locale=en&layout=compact" alt="zombieter" />&nbsp;</p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zombieteer&show_icons=true&locale=en&layout=compact" alt="zombieteer" />&nbsp;</p>
 
 <h3 align="left">Support:</h3>
 
-<p align="center" space="10px"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zombieter" alt="zombieter" /></a> </p>
+<p align="center" space="10px"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zombieteer" alt="zombieteer" /></a> </p>
